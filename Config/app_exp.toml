@@ -1,6 +1,6 @@
 [bot]
-master = [100]
-botToken = 'key'
+master = [1040794694]
+botToken = '5855231503:AAHHJmFJnDj_wR7Krs8eNbUSqXYKGNy30VU'
 # OPENAI_API_KEY = ["key"] # 使用 /add_api_key 命令来代替设置
 INTRO = "POWER BY OPENAI"
 ABOUT = "Created by github.com/sudoskys/Openaibot"
